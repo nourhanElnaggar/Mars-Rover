@@ -3,6 +3,7 @@
 - clone the reposatry
 - open the folder after made clone
 - open index.html file (on the browser)
+- open console to see the output
 - open visual code to see the project 
 # Test Case for part 1 of the problem 
 - current coordonate is [4, 2]  and itis dirction "EAST"
