@@ -3,6 +3,7 @@ let heading = "EAST";
 let commands = ["F", "B" ,"L", "R"]
 let directions = ["NORTH", "EAST", "SOUTH", "WEST"]
 
+
 // obstacles array
 let arr = [
   [5, 3],
