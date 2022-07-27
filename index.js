@@ -93,11 +93,11 @@ function roverMove(command)
       } 
   
   }
-  
+  obastacles(currentHeading , arr , heading)
   console.log( `( ${currentHeading} ) ` , ` ${heading}`)
   
 
-  obastacles(currentHeading , arr , heading)
+  
 }
 
 // Part ii
