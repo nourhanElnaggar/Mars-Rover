@@ -1,5 +1,3 @@
-
-
 let currentHeading = [4, 2] 
 let heading = "EAST";
 let commands = ["F", "B" ,"L", "R"]
