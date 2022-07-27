@@ -7,7 +7,7 @@
 # Test Case for part 1 of the problem 
 - current coordonate is [4, 2]  and itis dirction "EAST"
 - Command is FLFFFRFLB
-- Epected Final output is (6,4) NORTH
+- Expected Final output is (6,4) NORTH
 # Test Case for part 2 of the problem 
 - from part 1 command and itis current coordonate and itis dirction we saw that 
 - current coordonate is [4, 2]  and itis dirction "EAST"
